@@ -8,8 +8,8 @@
 
 
 # In[3]:
-
-!pip install openai
+pip install --upgrade pip
+pip install openai
 # Import the required libraries
 import openai
 # import os
